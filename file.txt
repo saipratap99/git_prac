@@ -3,3 +3,5 @@ File is created initially before initializing git
 Modified the file in test branch
 
 Modified the file in master branch
+
+Hello , Good morning!
